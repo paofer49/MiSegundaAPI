@@ -1,0 +1,6 @@
+@MiSegundaAPI_HostAddress = http://localhost:5122
+
+GET {{MiSegundaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
